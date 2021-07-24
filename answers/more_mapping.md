@@ -1,0 +1,8 @@
+# 1
+
+```
+nnoremap <leader>' viw<esc>a'<esc>bi'<esc>lel
+vnoremap <Leader>" <esc>`<i"<esc>`>la"<esc>`<lv`>l
+nnoremap H ^
+nnoremap L $
+```
