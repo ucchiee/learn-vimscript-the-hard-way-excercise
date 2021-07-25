@@ -6,3 +6,5 @@ My answer of exercises in Learn Vimscript the Hard Way
 
 9.  [More Mappings](answers/e09.md)
 10. [Training Your Fingers](answers/e10.md)
+11. Read manual.
+12. [Autocommands](answers/e11.md)
