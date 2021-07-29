@@ -8,4 +8,5 @@ My answer of exercises in Learn Vimscript the Hard Way
 10. [Training Your Fingers](answers/e10.md)
 11. Read manual.
 12. [Autocommands](answers/e12.md)
-12. [Buffer-Local Abbreviations](answers/e13.md)
+13. [Buffer-Local Abbreviations](answers/e13.md)
+14. [Autocommand Groups](answers/e14.md)
