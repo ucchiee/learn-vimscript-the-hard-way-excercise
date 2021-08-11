@@ -11,5 +11,6 @@ My answer of exercises in Learn Vimscript the Hard Way
 13. [Buffer-Local Abbreviations](answers/e13.md)
 14. [Autocommand Groups](answers/e14.md)
 15. [Operator-Pending Mappings](answers/e15.md)
-16. [Operator-Pending Mappings](answers/e16.md)
-17. [Operator-Pending Mappings](answers/e17.md)
+16. [More Operator-Pending Mappings](answers/e16.md)
+17. [Status Lines](answers/e17.md)
+18. [Responsible Coding](answers/e18.md)
