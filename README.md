@@ -14,3 +14,4 @@ My answer of exercises in Learn Vimscript the Hard Way
 16. [More Operator-Pending Mappings](answers/e16.md)
 17. [Status Lines](answers/e17.md)
 18. [Responsible Coding](answers/e18.md)
+19. [Variables](answers/e19.md)
