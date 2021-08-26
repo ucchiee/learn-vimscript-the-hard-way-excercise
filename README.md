@@ -15,4 +15,5 @@ My answer of exercises in Learn Vimscript the Hard Way
 17. [Status Lines](answers/e17.md)
 18. [Responsible Coding](answers/e18.md)
 19. [Variables](answers/e19.md)
-19. [Variables Scoping](answers/e20.md)
+20. [Variables Scoping](answers/e20.md)
+21. [Variables Scoping](answers/e21.md)
